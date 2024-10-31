@@ -3,7 +3,7 @@ package huaweicloud
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	libdnshuaweicloud "github.com/libdns/huaweicloud"
+	libdnshuaweicloud "github.com/jicjoy/huaweicloud"
 )
 
 // Provider lets Caddy read and manipulate DNS records hosted by this DNS provider.
